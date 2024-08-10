@@ -4,6 +4,7 @@
 # Organizers
  * DataKind
  * Data for Good - Toronto
+ * Toronto JS
 
 # Supported Organzations
  * International Monetary Fund
